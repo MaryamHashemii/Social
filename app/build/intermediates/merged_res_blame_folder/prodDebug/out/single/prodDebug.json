@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xxxhdpi_ic_heart_red.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xxxhdpi\\ic_heart_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-anydpi-v24_ic_user.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-anydpi-v24\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xxhdpi_ic_heart_red.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xxhdpi\\ic_heart_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\navigation_main_nav_graph.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\navigation\\main_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-ldpi_ic_heart_red.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-ldpi\\ic_heart_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-anydpi-v24_ic_heart_red.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-anydpi-v24\\ic_heart_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-ldpi_ic_heart_black.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-ldpi\\ic_heart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_background_edit_text.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\drawable\\background_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_load_state_view.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\load_state_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_fragment_post.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\fragment_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_background_btn.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\drawable\\background_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xhdpi_ic_heart_red.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xhdpi\\ic_heart_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xhdpi_ic_heart_black.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xhdpi\\ic_heart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\font_highpro.otf.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\font\\highpro.otf"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-hdpi_ic_heart_red.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-hdpi\\ic_heart_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-hdpi_ic_heart_black.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-hdpi\\ic_heart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xxhdpi_ic_heart_black.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xxhdpi\\ic_heart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-mdpi_ic_heart_red.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-mdpi\\ic_heart_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-anydpi-v24_ic_heart_black.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-anydpi-v24\\ic_heart_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_background_btn_purple.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\drawable\\background_btn_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-xxxhdpi_ic_heart_black.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-xxxhdpi\\ic_heart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_fragment_post_detail.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\fragment_post_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_shape_gradient_top_shadow.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\drawable\\shape_gradient_top_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable-mdpi_ic_heart_black.png.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\generated\\res\\pngs\\prod\\debug\\drawable-mdpi\\ic_heart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_item_post.xml.flat",
+        "source": "C:\\Users\\Mary\\Desktop\\Woocer_test\\app\\src\\main\\res\\layout\\item_post.xml"
+    }
+]

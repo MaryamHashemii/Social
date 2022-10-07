@@ -1,0 +1,109 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
+    id 'com.google.gms.google-services'
+    id 'kotlin-parcelize'
+    id 'androidx.navigation.safeargs.kotlin'
+
+}
+
+android {
+    compileSdkVersion Versions.COMPILE_SDK
+
+    defaultConfig {
+        applicationId "com.social.test"
+        minSdkVersion Versions.MIN_SDK
+        targetSdkVersion Versions.TARGET_SDK
+        versionCode Versions.VERSION_CODE
+        versionName Versions.VERSION_NAME
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+
+        debug {
+            minifyEnabled false
+            testCoverageEnabled = "true"
+            debuggable = true
+        }
+    }
+
+    flavorDimensions "stage"
+    productFlavors {
+        prod {
+            dimension "stage"
+            buildConfigField "String", "BASE_URL", BASE_URL_PROD
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8.toString()
+    }
+
+    buildFeatures {
+        dataBinding true
+    }
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+    }
+
+}
+
+dependencies {
+
+    api project(path: ':depconstraints')
+    kapt project(path: ':depconstraints')
+
+    implementation "$Libs.HILT_ANDROID"
+    kapt "$Libs.HILT_COMPILER"
+    api "$Libs.CORE_KTX"
+    api "$Libs.ANDROID_X"
+    api "$Libs.MATERIAL"
+    api "$Libs.CONSTRAINT_LAYOUT"
+
+    api "$Libs.LIVE_DATA_LIFECYCLE"
+
+    api "$Libs.COROUTINE"
+
+    api "$Libs.RETROFIT"
+    api "$Libs.OK_HTTP_CLIENT"
+    api "$Libs.LOGGING_INTERCEPTOR"
+    api "$Libs.GSON"
+
+    api "$Libs.ROOM_KTX"
+    api "$Libs.ROOM_RUNTIME"
+    kapt "$Libs.ROOM_COMPILER"
+
+    api "$Libs.NAVIGATION_UI"
+    api "$Libs.NAVIGATION_FRAGMENT"
+
+    api "$Libs.PLAY_SERVICE"
+
+    api "$Libs.FRESCO"
+
+    api"$Libs.PAGING"
+
+    testImplementation "$Libs.JUNIT"
+    testImplementation "$Libs.ROBO_ELECTRIC"
+    testImplementation "$Libs.MOCKITO_CORE"
+    testImplementation "$Libs.MOCKITO_INLINE"
+    androidTestImplementation "$Libs.JUNIT_EXT"
+    androidTestImplementation "$Libs.ESPRESSO"
+
+//    testImplementation "io.mockk:mockk:1.10.2"
+
+}

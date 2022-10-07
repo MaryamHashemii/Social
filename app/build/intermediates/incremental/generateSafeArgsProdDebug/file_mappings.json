@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\main_nav_graph.xml","javaFiles":["com.social.test.presentation.splash.SplashFragmentDirections","com.social.test.presentation.post.PostFragmentDirections","com.social.test.presentation.post_detail.FragmentPostDetailArgs"]}]

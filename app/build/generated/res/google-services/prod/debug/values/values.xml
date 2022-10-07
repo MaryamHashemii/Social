@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">934679252237-ej277hc9n39dp0dkfn4rh8cqio101jmk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://polar-automata-169511-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">934679252237</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzdyp5w9PSti78akdqNSjCEWRw-YjekME</string>
+    <string name="google_app_id" translatable="false">1:934679252237:android:b8734d320f1acb6464b444</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzdyp5w9PSti78akdqNSjCEWRw-YjekME</string>
+    <string name="google_storage_bucket" translatable="false">polar-automata-169511.appspot.com</string>
+    <string name="project_id" translatable="false">polar-automata-169511</string>
+</resources>

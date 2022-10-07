@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.social.test"
+4    android:versionCode="1"
+5    android:versionName="1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:8:5-28:19
+15        android:name="com.social.test.App"
+15-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:9:9-43
+16        android:allowBackup="true"
+16-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\eb6bc785fef224b7a22dc75024b13d06\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Social" >
+24-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:15:9-44
+25        <activity
+25-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:17:9-25:20
+26            android:name="com.social.test.presentation.splash.MainActivity"
+26-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:18:13-76
+27            android:screenOrientation="portrait" >
+27-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:19:13-49
+28            <intent-filter>
+28-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:21:17-69
+29-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:23:17-77
+31-->C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <service
+35-->[androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a38862ca7c20a51d0c7034d00d6f65c1\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+36            android:name="androidx.room.MultiInstanceInvalidationService"
+36-->[androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a38862ca7c20a51d0c7034d00d6f65c1\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+37            android:directBootAware="true"
+37-->[androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a38862ca7c20a51d0c7034d00d6f65c1\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+38            android:exported="false" />
+38-->[androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a38862ca7c20a51d0c7034d00d6f65c1\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+39
+40        <activity
+40-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\1da22a819492e1e74dc4cc2877c13001\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+41            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+41-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\1da22a819492e1e74dc4cc2877c13001\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+42            android:exported="false"
+42-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\1da22a819492e1e74dc4cc2877c13001\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+43            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+43-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\1da22a819492e1e74dc4cc2877c13001\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+44
+45        <meta-data
+45-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\f6e79ec25a2714407a374db22f59f58d\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+46            android:name="com.google.android.gms.version"
+46-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\f6e79ec25a2714407a374db22f59f58d\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+47            android:value="@integer/google_play_services_version" />
+47-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\f6e79ec25a2714407a374db22f59f58d\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+48
+49        <provider
+49-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\cb471cd2b4c1dabc7d3d943e19f8eb75\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+50            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\cb471cd2b4c1dabc7d3d943e19f8eb75\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+51            android:authorities="com.social.test.lifecycle-process"
+51-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\cb471cd2b4c1dabc7d3d943e19f8eb75\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+52            android:exported="false"
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\cb471cd2b4c1dabc7d3d943e19f8eb75\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+53            android:multiprocess="true" />
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\cb471cd2b4c1dabc7d3d943e19f8eb75\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+54    </application>
+55
+56</manifest>

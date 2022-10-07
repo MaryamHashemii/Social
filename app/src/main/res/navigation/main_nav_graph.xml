@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.social.test.presentation.splash.SplashFragment"
+        android:label="SplashFragment"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_productFragment"
+            app:destination="@id/postFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/postFragment"
+        android:name="com.social.test.presentation.post.PostFragment"
+        android:label="PostFragment"
+        tools:layout="@layout/fragment_post">
+        <action
+            android:id="@+id/action_videoFragment_to_videoDetailFragment"
+            app:destination="@id/fragmentPostDetail" >
+            <argument
+                app:argType="com.social.test.domain.model.ItemPost"
+                android:name="postInfo"/>
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentPostDetail"
+        android:name="com.social.test.presentation.post_detail.FragmentPostDetail"
+        android:label="fragmentVideoDetail"
+        tools:layout="@layout/fragment_post_detail">
+        <argument
+            app:argType="com.social.test.domain.model.ItemPost"
+            android:name="postInfo"/>
+    </fragment>
+
+</navigation>

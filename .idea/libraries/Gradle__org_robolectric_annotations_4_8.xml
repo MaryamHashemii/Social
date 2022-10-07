@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:annotations:4.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/annotations/4.8/2045666f1b22af2c5cd71b9b5963be14242fdf05/annotations-4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/annotations/4.8/bb6957db9085ab97e0806536f2296f5f6a7ad431/annotations-4.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/annotations/4.8/de63df13d86be412bb3575198af4680867df630d/annotations-4.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

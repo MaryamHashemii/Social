@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/paret_category"
+        android:layout_margin="8dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txt_comment"
+            style="@style/TextAppearance.Social.Body1"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:gravity="start|center"
+            tools:text="test"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+</layout>

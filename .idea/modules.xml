@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Boomino_test.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Boomino_test.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Social_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Social_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_test.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_test.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_test.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_test.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_test.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_test.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Social_test.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Social_test.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Social_test.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Social_test.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Social_test.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Social_test.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Social_test.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Social_test.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/depconstraints/Social_test.depconstraints.iml" filepath="$PROJECT_DIR$/.idea/modules/depconstraints/Social_test.depconstraints.iml" />
+    </modules>
+  </component>
+</project>
